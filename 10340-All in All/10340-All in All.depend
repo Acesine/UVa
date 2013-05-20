@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1368203972 source:/home/xianggao/workspace/C/UVa/10340-All in All/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

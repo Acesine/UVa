@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1366827159 source:/home/xianggao/workspace/C/UVa/103 - Stacking Boxes/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+

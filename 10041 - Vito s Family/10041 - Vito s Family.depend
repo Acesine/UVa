@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1368081020 source:/home/xianggao/workspace/C/UVa/10041 - Vito s Family/main.cpp
+	<cstdio>
+	<vector>
+	<cmath>
+	<iostream>
+

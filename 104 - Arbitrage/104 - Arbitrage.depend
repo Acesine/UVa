@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1366866683 source:/home/xianggao/workspace/C/UVa/104 - Arbitrage/main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+

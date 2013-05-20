@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1367986328 source:/home/xianggao/workspace/C/UVa/591 - Box of Bricks/main.cpp
+	<iostream>
+	<fstream>
+

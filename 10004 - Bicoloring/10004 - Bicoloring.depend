@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1368061283 source:/home/xianggao/workspace/C/UVa/10004 - Bicoloring/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<queue>
+	<fstream>
+

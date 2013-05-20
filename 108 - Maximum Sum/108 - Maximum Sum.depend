@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1367993482 source:/home/xianggao/workspace/C/UVa/108 - Maximum Sum/main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+

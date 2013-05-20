@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1367882301 source:/home/xianggao/workspace/C/UVa/10038 - Jolly Jumpers/main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<fstream>
+

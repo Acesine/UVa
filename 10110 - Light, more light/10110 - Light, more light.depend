@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1368058206 source:/home/xianggao/workspace/C/UVa/10110 - Light, more light/main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+

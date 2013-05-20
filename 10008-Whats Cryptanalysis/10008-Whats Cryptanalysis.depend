@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1368036875 source:/home/xianggao/workspace/C/UVa/10008-Whats Cryptanalysis/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+

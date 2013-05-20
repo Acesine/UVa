@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1367902986 source:/home/xianggao/workspace/C/UVa/10082 - WERTYU/main.cpp
+	<iostream>
+	<map>
+	<fstream>
+

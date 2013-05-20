@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1367019320 source:/home/xianggao/workspace/C/UVa/624 - CD/main.cpp
+	<iostream>
+	<fstream>
+

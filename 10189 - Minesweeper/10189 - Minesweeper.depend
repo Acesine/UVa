@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1367898910 source:/home/xianggao/workspace/C/UVa/10189 - Minesweeper/main.cpp
+	<iostream>
+	<fstream>
+

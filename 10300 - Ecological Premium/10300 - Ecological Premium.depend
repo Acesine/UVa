@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1365872772 source:/home/xianggao/workspace/C/UVa/10300 - Ecological Premium/main.cpp
+	<iostream>
+	<fstream>
+

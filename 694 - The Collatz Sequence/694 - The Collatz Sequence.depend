@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1365960877 source:/home/xianggao/workspace/C/UVa/Learning Algo/694 - The Collatz Sequence/main.cpp
+	<iostream>
+	<fstream>
+

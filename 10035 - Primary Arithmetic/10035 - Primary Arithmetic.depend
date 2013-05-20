@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1367883718 source:/home/xianggao/workspace/C/UVa/10035 - Primary Arithmetic/main.cpp
+	<iostream>
+	<fstream>
+

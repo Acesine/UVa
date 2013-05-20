@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1367017705 source:/home/xianggao/workspace/C/UVa/11242 - Tour de France/main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<vector>
+	<fstream>
+

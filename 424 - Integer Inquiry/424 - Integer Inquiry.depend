@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1368071633 source:/home/xianggao/workspace/C/UVa/424 - Integer Inquiry/main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+
